@@ -17,7 +17,7 @@ Electric Vehicles (EVs) are a key technology for advancing environmental sustain
 <p align="center">
   <img src="https://raw.githubusercontent.com/HenriqueCaetano1/power_tech_2026_ev_resource_allocation/main/main_results/flowchart_v1.png" width="700" alt="Model Diagram">
   <br>
-  <em>Flowchart of the proposed hierarchical model.</em>
+  <em>Flowchart of the proposed methodology.</em>
 </p>
 
 ---
