@@ -1,0 +1,13 @@
+# Ignore files
+criando_dbn_inicial.ipynb
+testes_iniciais.ipynb
+IEEE123Master.dss
+net_sp_with_cb_no_duplicates.p
+rede_RBTS4.p
+rede_RBTS4_with_switches_modified.p
+
+# Ignore an entire folder with private data
+dados_matheus/
+pickle_files/
+redes_panda_power/
+
